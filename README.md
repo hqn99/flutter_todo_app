@@ -1,16 +1,16 @@
-# todo_app
+# ToDoアプリ
 
-A new Flutter project.
+## 制作期間
+- 開始日：2025年6月21日  
+- 終了日：2025年6月21日
 
-## Getting Started
+## 制作の目的・意図
+日々のタスク管理を効率化するためのシンプルなToDoアプリを制作しました．ユーザーがタスクを追加・編集・削除・完了状態に変更できる基本機能を備え，使いやすさを重視しています．
 
-This project is a starting point for a Flutter application.
+## 制作過程で努力した点
+- ユーザーが迷わず操作できるよう，ボタン配置や色使いを工夫しました．
+- リアルタイムでタスクの状態を更新できるようにしました．
+- 期限の長さに合わせて自動で色が変化するようにし，見た目で分かりやすくしました．
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## GitHubリポジトリ
+https://github.com/hqn99/flutter_todo_app
